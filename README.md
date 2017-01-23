@@ -10,7 +10,7 @@
 
 It's important that you fork the lab over to your personal GitHub account (instructions below in video) before you clone down the lab to your machine!
 
-Make sure you're running the latest version of Xcode, which is Xcode 8.0.
+Make sure you're running the latest version of Xcode, which is Xcode 8.2.1.
 
 
 
